@@ -1,20 +1,27 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
-<p align="left">
+```markdown
+<p align="center">
   <table>
     <tr>
       <td align="center">
         <b>Source</b><br>
-        <img src="source.gif" width="320">
+        <img src="source.gif" width="300">
+      </td>
+
+      <td align="center" style="font-size:40px;">
+        →
       </td>
 
       <td align="center">
-        <b>Result</b><br>
-        <img src="results.gif" width="320">
+        <b>MysticMorphor</b><br>
+        <img src="result.gif" width="300">
       </td>
     </tr>
   </table>
 </p>
+```
+
 
 Prompt: The boy flies in the greenary forest
 
