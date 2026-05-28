@@ -8,12 +8,12 @@
 
 ## Bottom-Up Problem Analysis: What Makes the Editing Difficult?
 
-👓 Large motion gaps <br>
-👓 Location shifts <br>
-👓 Complex backgrounds <br>
-👓 Camera movement <br>
-👓 Human-background ambiguity <br>
-👓 Temporal inconsistency <br>
+👓 Large motion gaps: differences between source and target motions <br>
+👓 Location shifts: change of the protagonist’s spatial position <br>
+👓 Complex backgrounds: dynamic and complicated backgrounds <br>
+👓 Camera movement: change of camera position <br>
+👓 Character-background similarity: similar appearance between the character and the background  <br>
+👓 Temporal inconsistency: gap between frames <br>
 
 ## Our Solution: MysticMorphor
 <p align="center">
