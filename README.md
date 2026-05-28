@@ -62,6 +62,7 @@ LPIPS-s, LPIPS-N, LPIPS-T, and CLIP, and newly defined LPIPS-B, LPIPS-P are used
 
 ## Acknowledgement
 Our project is heavily based on [MotionEditor](https://github.com/Francis-Rings/MotionEditor) (CVPR 2024)
+We thank the authors for publicly releasing their code.
 
 ```bibtex
 @inproceedings{tu2024motioneditor,
