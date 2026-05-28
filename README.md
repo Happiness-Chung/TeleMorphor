@@ -13,7 +13,7 @@
 👓 Complex backgrounds: dynamic and complicated backgrounds <br>
 👓 Camera movement: change of camera position <br>
 👓 Character-background similarity: similar appearance between the character and the background  <br>
-👓 Temporal inconsistency: gap between frames <br>
+👓 Temporal inconsistency: large gap between frames <br>
 
 ## Our Solution: MysticMorphor
 <p align="center">
