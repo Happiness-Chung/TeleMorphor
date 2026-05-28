@@ -14,7 +14,9 @@
 </tr>
 </table>
 
-Prompt: The boy flies in the greenary forest
+<br>
+
+Prompt: The boy flies in the greenary forest <br>
 
 ---
 
