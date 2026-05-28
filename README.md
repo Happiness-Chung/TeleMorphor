@@ -1,8 +1,22 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
 <p align="center">
-  <img src="assets/teaser.gif" width="90%">
+  <table>
+    <tr>
+      <td align="center">
+        <b>Source</b><br>
+        <img src="source.gif" width="320">
+      </td>
+
+      <td align="center">
+        <b>Result</b><br>
+        <img src="result.gif" width="320">
+      </td>
+    </tr>
+  </table>
 </p>
+
+Prompt: The boy flies in the greenary forest
 
 ---
 
