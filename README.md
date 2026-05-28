@@ -1,6 +1,5 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
-```markdown
 <p align="center">
   <table>
     <tr>
@@ -20,8 +19,6 @@
     </tr>
   </table>
 </p>
-```
-
 
 Prompt: The boy flies in the greenary forest
 
