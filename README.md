@@ -1,6 +1,6 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
-<p align="center">
+<p align="left">
   <table>
     <tr>
       <td align="center">
@@ -10,7 +10,7 @@
 
       <td align="center">
         <b>Result</b><br>
-        <img src="result.gif" width="320">
+        <img src="results.gif" width="320">
       </td>
     </tr>
   </table>
