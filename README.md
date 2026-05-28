@@ -47,6 +47,7 @@ Our project is heavily based on [MotionEditor](https://github.com/Francis-Rings/
   booktitle={CVPR},
   year={2024}
 }
+```
 ---
 
 ## Installation
