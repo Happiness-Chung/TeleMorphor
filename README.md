@@ -18,6 +18,8 @@
 
 <p align="center"> <i> Prompt:The boy flies in the greenary forest</i> </p>
 
+<br>
+
 ---
 
 ## Bottom-Up Problem Analysis: What Makes the Editing Difficult?
