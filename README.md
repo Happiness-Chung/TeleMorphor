@@ -30,6 +30,8 @@
 👓 **Character-background similarity:** similar appearance between the character and the background  <br>
 👓 **Temporal inconsistency:** large gap between frames <br>
 
+---
+
 ## Our Solution: MysticMorphor
 <p align="left">
   <img src="schematic.png" width="70%">
