@@ -1,12 +1,12 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
-<p align="center">
+<p align="left">
   <img src="source.gif" width="320"/>
   &nbsp;&nbsp;&nbsp; ➜ &nbsp;&nbsp;&nbsp;
   <img src="result.gif" width="320"/>
 </p>
 
-<p align="center">
+<p align="left">
   <b>Source</b>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <b>MysticMorphor</b>
