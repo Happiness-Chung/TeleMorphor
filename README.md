@@ -38,7 +38,7 @@ YouTube & AI video generator ()
 
 ---
 ## Acknowledgement
-Our project is heavily based on [MotionEditor](https://github.com/Francis-Rings/MotionEditor)
+Our project is heavily based on [MotionEditor](https://github.com/Francis-Rings/MotionEditor) (CVPR 2024)
 
 ```bibtex
 @inproceedings{tu2024motioneditor,
