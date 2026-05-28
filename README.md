@@ -1,0 +1,55 @@
+# 🕹️ MysticMorphor: Simultaneous Motion-Location Editing of a Character in the Videos In-The-Wild
+
+<p align="center">
+  <img src="assets/teaser.gif" width="90%">
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/XXXX.XXXXX">📄 Paper</a> |
+  <a href="https://your-project-page.github.io/MysticMorphor/">🌐 Project Page</a>
+</p>
+
+---
+
+## Bottom-Up Problem Analysis: What Makes Character Editing in Video Difficult?
+
+👓 Large motion gaps
+👓 Location shifts
+👓 Complex backgrounds
+👓 Camera movement
+👓 Human-background ambiguity
+👓 Temporal inconsistency
+
+## Our Solution: MysticMorphor
+<p align="center">
+  <img src="assets/framework.png" width="95%">
+</p>
+
+**Source Video:**
+YouTube & AI video generator ()
+
+**Key Functions:**
+🪢 Foreground-background disentangled editing
+🤾‍♀️ Guided by motion priors
+💄 Training-free protagonist guidance
+
+---
+
+## Quantitative Performance
+
+<p align="center">
+  <img src="assets/results.png" width="95%">
+</p>
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/yourname/MysticMorphor.git
+cd MysticMorphor
+
+conda create -n mystic python=3.10
+conda activate mystic
+
+pip install -r requirements.txt
