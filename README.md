@@ -4,12 +4,12 @@
 <tr>
 <td align="left">
 <b>Source</b><br>
-<img src="source.gif" width="320"/>
+<img src="result.gif" width="320"/>
 </td>
 
 <td align="left">
 <b>Edited</b><br>
-<img src="result.gif" width="320"/>
+<img src="source.gif" width="320"/>
 </td>
 </tr>
 </table>
@@ -17,6 +17,8 @@
 <br>
 
 Prompt: The boy flies in the greenary forest <br>
+
+
 
 ---
 
