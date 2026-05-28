@@ -38,13 +38,13 @@ YouTube & AI video generator ()
 
 ---
 ## Acknowledgement
-Our project is heavily based on MotionEditor (https://github.com/Francis-Rings/MotionEditor)
+Our project is heavily based on [MotionEditor](https://github.com/Francis-Rings/MotionEditor)
 
+```bibtex
 @inproceedings{tu2024motioneditor,
   title={Motioneditor: Editing video motion via content-aware diffusion},
   author={Tu, Shuyuan and Dai, Qi and Cheng, Zhi-Qi and Hu, Han and Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={7882--7891},
+  booktitle={CVPR},
   year={2024}
 }
 ---
