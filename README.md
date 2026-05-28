@@ -1,4 +1,4 @@
-## 🕹️ Simultaneous Motion-Location Editing of a Character in the Videos In-The-Wild
+## 🕹️ Motion&Location Editing of a Character in the Videos In-The-Wild
 
 <p align="center">
   <img src="assets/teaser.gif" width="90%">
