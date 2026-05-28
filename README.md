@@ -1,6 +1,6 @@
 ## 🕹️ Motion&Location Editing of a Character of the Videos In-The-Wild
 
-<p align="left"> <i> Prompt:The boy flies in the greenary forest</i> </p>
+<p align="left"> <i> Prompt: "The boy flies in the greenary forest" </i> </p>
 <table align="left">
 <tr>
 <td align="left">
