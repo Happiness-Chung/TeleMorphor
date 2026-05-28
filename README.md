@@ -16,7 +16,7 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p align="center"> <i> Prompt:The boy flies in the greenary forest</i> </p>
+<p align="left"> <i> Prompt:The boy flies in the greenary forest</i> </p>
 
 <br>
 
