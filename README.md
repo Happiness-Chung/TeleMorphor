@@ -6,7 +6,7 @@
 
 ---
 
-## Bottom-Up Problem Analysis: What Makes Character Editing in Video Difficult?
+## Bottom-Up Problem Analysis: What Makes the Editing Difficult?
 
 👓 Large motion gaps <br>
 👓 Location shifts <br>
