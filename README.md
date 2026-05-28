@@ -1,36 +1,31 @@
-# 🕹️ MysticMorphor: Simultaneous Motion-Location Editing of a Character in the Videos In-The-Wild
+## 🕹️ Simultaneous Motion-Location Editing of a Character in the Videos In-The-Wild
 
 <p align="center">
   <img src="assets/teaser.gif" width="90%">
-</p>
-
-<p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">📄 Paper</a> |
-  <a href="https://your-project-page.github.io/MysticMorphor/">🌐 Project Page</a>
 </p>
 
 ---
 
 ## Bottom-Up Problem Analysis: What Makes Character Editing in Video Difficult?
 
-👓 Large motion gaps
-👓 Location shifts
-👓 Complex backgrounds
-👓 Camera movement
-👓 Human-background ambiguity
-👓 Temporal inconsistency
+👓 Large motion gaps <br>
+👓 Location shifts <br>
+👓 Complex backgrounds <br>
+👓 Camera movement <br>
+👓 Human-background ambiguity <br>
+👓 Temporal inconsistency <br>
 
 ## Our Solution: MysticMorphor
 <p align="center">
   <img src="assets/framework.png" width="95%">
 </p>
 
-**Source Video:**
+**Source Video:** <br>
 YouTube & AI video generator ()
 
-**Key Functions:**
-🪢 Foreground-background disentangled editing
-🤾‍♀️ Guided by motion priors
+**Key Functions:** <br>
+🪢 Foreground-background disentangled editing <br>
+🤾‍♀️ Guided by motion priors <br>
 💄 Training-free protagonist guidance
 
 ---
