@@ -16,7 +16,7 @@
 👓 Temporal inconsistency: large gap between frames <br>
 
 ## Our Solution: MysticMorphor
-<p align="center">
+<p align="left">
   <img src="schematic.png" width="50%">
 </p>
 
