@@ -17,7 +17,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="center">
-  <img src="assets/framework.png" width="95%">
+  <img src="schematic.png" width="95%">
 </p>
 
 **Source Video:** <br>
