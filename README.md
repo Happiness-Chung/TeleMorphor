@@ -33,7 +33,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 ## Performance
 
 <p align="left">
-  <img src="quantitative.png" width="60%"> <img src="qualitative.png" width="60%">
+  <img src="quantitative.png" width="50%"> <img src="qualitative.png" width="40%">
 </p>
 
 ---
