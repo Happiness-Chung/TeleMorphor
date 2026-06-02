@@ -114,7 +114,8 @@ This project followed the software environment of MotionEditor. <br>
 2. Prepare inputs in the folder "sample_input".
 3. Segment the protagonist from the background using a pre-trained segmentor (can be anything).
 4. Inpaint background using a pre-trained segmentor (can be anything).
-5. Run MysticMorphor(Extended_MotionEditor)/train/train_bg.py
-6. Run MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py
-7. Run MysticMorphor(Extended_MotionEditor)/inference.py.
+5. Warp the protagonist's pose with chunking.py -> curve_fitting.py -> 
+6. Run MysticMorphor(Extended_MotionEditor)/train/train_bg.py
+7. Run MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py
+8. Run MysticMorphor(Extended_MotionEditor)/inference.py.
 
