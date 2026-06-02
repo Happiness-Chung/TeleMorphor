@@ -49,7 +49,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ## Performance
 
-# 🔍 Comparison with Existing Methods
+### 🔍 Comparison with Existing Methods
 
 | Method | Characteristics | Limitations |
 |----------|----------|----------|
