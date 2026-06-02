@@ -107,8 +107,6 @@ This project followed the software environment of MotionEditor. <br>
 ```
 ---
 
-## Installation
-
 ## Quick Start
 
 1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
