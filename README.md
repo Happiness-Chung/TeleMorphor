@@ -1,17 +1,17 @@
 # MysticMorphor
-## 🕹️ Simultaneous Motion-Location Editing for In-the-Wild Videos
+## 🩰 Simultaneous Motion-Location Editing for In-the-Wild Videos
 
 <p align="left"> <i> Prompt: "The boy flies in the greenary forest" </i> </p>
 <table align="left">
 <tr>
 <td align="left">
-<b>Source</b><br>
 <img src="Assets/result.gif" width="320"/>
+<b>Source</b><br>
 </td>
 
 <td align="left">
-<b>Edited</b><br>
 <img src="Assets/source.gif" width="320"/>
+<b>Edited</b><br>
 </td>
 </tr>
 </table>
