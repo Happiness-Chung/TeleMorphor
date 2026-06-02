@@ -28,7 +28,7 @@
 2. Prepare inputs in the `sample_input` folder.
 3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
 4. Inpaint the background using any off-the-shelf inpainting model.
-5. Warp the protagonist pose using the scripts in the `data_preparation` folder.
+5. Edit the protagonist pose and location using the scripts in the `data_preparation` folder.
 6. Train with `MysticMorphor(Extended_MotionEditor)/train/train_bg.py`.
 7. Train with `MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
 8. Get the edited protagonist result with `MysticMorphor(Extended_MotionEditor)/inference.py`.
