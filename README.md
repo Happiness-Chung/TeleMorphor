@@ -18,8 +18,6 @@
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<br>
-
 ---
 
 ## Challenge Analysis: What Makes the Editing Difficult?
