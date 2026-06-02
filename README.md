@@ -51,14 +51,14 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ### 🔍 Comparison with Existing Methods
 
-| Method | Characteristics | Limitations |
-|----------|----------|----------|
-| Follow-Your-Pose | Pose-guided video generation with spatial pose adapter | ❌ Poor appearance preservation<br>❌ Background changes significantly |
-| ControlVideo | Training-free controllable video generation | ❌ Weak motion alignment<br>❌ Often generates nearly static motions |
-| MasaCtrl | Tuning-free attention-based editing | ❌ Poor target motion following<br>❌ Background artifacts |
-| MotionDirector | Motion customization via dual-path LoRA | ❌ Appearance drift<br>❌ Less faithful editing |
-| MotionEditor | One-shot motion editing with motion adapter | ❌ Cannot explicitly handle location editing<br>❌ Motion conflicts cause flickering and temporal inconsistency |
-| **MysticMorphor (Proposed)** | **Simultaneous motion-location editing with motion priors** | ✅ Simultaneous motion & location editing<br>✅ Foreground-background disentanglement<br>✅ Training-free protagonist guidance<br>✅ Strong appearance preservation<br>✅ Improved temporal consistency |
+| Method | Motion | Location | Training | Main Limitation |
+|----------|----------|----------|----------|----------|
+| Follow-Your-Pose | ✅ | ❌ | Fully Trained | Appearance drift |
+| ControlVideo | ⚠️ | ❌ | Training-Free | Weak motion alignment |
+| MasaCtrl | ⚠️ | ❌ | Training-Free | Poor motion controllability |
+| MotionDirector | ✅ | ❌ | One-Shot | Appearance inconsistency |
+| MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
+| **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | - |
 
 <p align="left">
   <img src="Assets/quantitative.png" width="50%"> <img src="Assets/qualitative.png" width="41%">
