@@ -48,7 +48,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ---
 
-## Implementation
+## Implementation (Quik Start)
 
 1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
 2. Prepare inputs in the `sample_input` folder.
