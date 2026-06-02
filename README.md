@@ -35,7 +35,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="left">
-  <img src="Assets/schematic.png" width="95%">
+  <img src="Assets/schematic.png" width="100%">
 </p>
 
 **Source Video:** <br>
