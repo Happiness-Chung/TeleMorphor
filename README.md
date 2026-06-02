@@ -61,6 +61,27 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
 | **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | Color shift of protagonist |
 
+### Quantitative Comparison
+
+| Method | L-S ↓ | L-N ↓ | L-T ↓ | L-B ↓ | L-P ↓ | CLIP ↑ |
+|:---|---:|---:|---:|---:|---:|---:|
+| Source Video | ≤0.001 | 0.082 | 0.708 | ≤0.001 | 0.264 | 28.63 |
+| Target Motion Prior | 0.709 | 0.053 | ≤0.001 | 0.659 | ≤0.001 | 24.52 |
+| Follow-Your-Pose | 0.562 | 0.164 | 0.702 | 0.501 | 0.153 | 28.00 |
+| ControlVideo | 0.330 | 0.069 | 0.767 | 0.362 | 0.266 | 29.52 |
+| MasaCtrl | 0.513 | 0.096 | 0.566 | 0.428 | 0.123 | 27.94 |
+| MotionDirector | 0.604 | 0.075 | 0.695 | 0.581 | 0.285 | 29.40 |
+| MotionEditor | 0.348 | 0.148 | 0.666 | 0.252 | 0.094 | 29.35 |
+| **MysticMorphor (Ours)** | **0.309** | **0.099** | **0.655** | **≤0.001** | **0.074** | **30.01** |
+
+| Method | M-A ↑ | A-A ↑ | T-A ↑ |
+|:---|---:|---:|---:|
+| Follow-Your-Pose | 97.1% | 94.6% | 91.5% |
+| ControlVideo | 84.2% | 69.4% | 83.3% |
+| MasaCtrl | 92.5% | 94.5% | 91.2% |
+| MotionDirector | 93.7% | 93.3% | 85.2% |
+| MotionEditor | 75.3% | 81.2% | 79.9% |
+
 <p align="left">
   <img src="Assets/quantitative.png" width="50%"> <img src="Assets/qualitative.png" width="41%">
 </p>
