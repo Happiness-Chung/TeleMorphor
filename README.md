@@ -22,20 +22,6 @@
 
 ---
 
-## Quick Start
-
-1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
-2. Prepare inputs in the `sample_input` folder.
-3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
-4. Inpaint the background using any off-the-shelf inpainting model.
-5. Execute "Training-Free Pose Warping" for the protagonist's pose and location using the scripts in the `data_preparation` folder.
-6. Train with `MysticMorphor(Extended_MotionEditor)/train/train_bg.py`.
-7. Train with `MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
-8. Get the edited protagonist result with `MysticMorphor(Extended_MotionEditor)/inference.py`.
-9. Merge the edited protagonist onto the previously inpainted background.
-
----
-
 ## Challenge Analysis: What Makes the Editing Difficult?
 
 👓 **Large motion gaps:** differences between source and target motions <br>
@@ -62,10 +48,23 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ---
 
+## Implementation
+
+1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
+2. Prepare inputs in the `sample_input` folder.
+3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
+4. Inpaint the background using any off-the-shelf inpainting model.
+5. Execute "Training-Free Pose Warping" for the protagonist's pose and location using the scripts in the `data_preparation` folder.
+6. Train with `MysticMorphor(Extended_MotionEditor)/train/train_bg.py`.
+7. Train with `MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
+8. Get the edited protagonist result with `MysticMorphor(Extended_MotionEditor)/inference.py`.
+9. Merge the edited protagonist onto the previously inpainted background.
+
+---
+
 ## Result Analysis
 
 ### 🔍 What Progress Have We Made?
-
 
 | Method | Motion Editing | Location Editing | Training Requirement | Limitation |
 |:------:|:------:|:--------:|:-------------------:|:---------------:|
