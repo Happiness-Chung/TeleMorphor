@@ -109,11 +109,9 @@ This project followed the software environment of MotionEditor. <br>
 
 ## Installation
 
-```bash
-git clone https://github.com/yourname/MysticMorphor.git
-cd MysticMorphor
+## Quick Start
 
-conda create -n mystic python=3.10
-conda activate mystic
+1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
+2. Prepare inputs in the folder "sample_input".
+3. Run inference.py.
 
-pip install -r requirements.txt
