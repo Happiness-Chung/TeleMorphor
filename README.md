@@ -47,7 +47,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ---
 
-## Performance
+## Result Analysis
 
 ### 🔍 Comparison with Existing Methods
 
@@ -61,7 +61,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
 | **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | Color shift of protagonist |
 
-### Quantitative Comparison
+### 🔍 Quantitative Comparison
 
 | Method | L-S ↓ | L-N ↓ | L-T ↓ | L-B ↓ | L-P ↓ | CLIP ↑ |
 |:---|---:|---:|---:|---:|---:|---:|
@@ -74,7 +74,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionEditor | 0.348 | 0.148 | 0.666 | 0.252 | 0.094 | 29.35 |
 | **MysticMorphor (Ours)** | **0.309** | **0.099** | **0.655** | **≤0.001** | **0.074** | **30.01** |
 
-### Qualitative Comparison (User Study)
+### 🔍 Qualitative Comparison (User Study)
 
 | Method | M-A ↑ | A-A ↑ | T-A ↑ |
 |:---|---:|---:|---:|
@@ -84,9 +84,6 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionDirector | 93.7% | 93.3% | 85.2% |
 | MotionEditor | 75.3% | 81.2% | 79.9% |
 
-<p align="left">
-  <img src="Assets/quantitative.png" width="50%"> <img src="Assets/qualitative.png" width="41%">
-</p>
 LPIPS-s, LPIPS-N, LPIPS-T, and CLIP, and newly defined LPIPS-B, LPIPS-P are used for quantitative evaluation (left table). This work also conducted a user study (right table). The questions of the study were as follows: (I) Which video exhibits better alignment with the target motion? (M-A) (II) Which video better preserves the appearance of the source video? (AA) (III) Which video better aligns with the given text prompt? (T-A). A higher percentage represents the superiority of the results from our proposed method.
 
 <br>
