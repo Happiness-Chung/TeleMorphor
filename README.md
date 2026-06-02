@@ -5,12 +5,12 @@
 <tr>
 <td align="left">
 <b>Source</b><br>
-<img src="result.gif" width="320"/>
+<img src="Assets/result.gif" width="320"/>
 </td>
 
 <td align="left">
 <b>Edited</b><br>
-<img src="source.gif" width="320"/>
+<img src="Assets/source.gif" width="320"/>
 </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="left">
-  <img src="schematic.png" width="70%">
+  <img src="Assets/schematic.png" width="70%">
 </p>
 
 **Source Video:** <br>
