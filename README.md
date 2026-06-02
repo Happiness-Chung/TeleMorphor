@@ -49,7 +49,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ## Result Analysis
 
-### 🔍 Comparison with Existing Methods
+### 🔍 Functional Comparison
 
 
 | Method | Motion | Location | Training Requirement | Main Limitation |
