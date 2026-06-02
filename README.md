@@ -52,7 +52,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 ### 🔍 Functional Comparison
 
 
-| Method | Motion | Location | Training Requirement | Main Limitation |
+| Method | Motion Editing | Location Editing | Training Requirement | Limitation |
 |:------:|:------:|:--------:|:-------------------:|:---------------:|
 | Follow-Your-Pose | ✅ | ❌ | Training Required | Appearance drift |
 | ControlVideo | ⚠️ | ❌ | Training-Free | Weak motion alignment |
