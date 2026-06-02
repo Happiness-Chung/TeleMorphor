@@ -5,13 +5,13 @@
 <table align="left">
 <tr>
 <td align="left">
-<img src="Assets/result.gif" width="320"/>
-<b>Source</b><br>
+<img src="Assets/result.gif" width="320"/><br>
+<b>Source</b>
 </td>
 
 <td align="left">
-<img src="Assets/source.gif" width="320"/>
-<b>Edited</b><br>
+<img src="Assets/source.gif" width="320"/><br>
+<b>Edited</b>
 </td>
 </tr>
 </table>
