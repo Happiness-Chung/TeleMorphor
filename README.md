@@ -49,7 +49,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="left">
-  <img src="Assets/schematic.png" width="85%">
+  <img src="Assets/schematic.png" width="95%">
 </p>
 
 **Source Video:** <br>
