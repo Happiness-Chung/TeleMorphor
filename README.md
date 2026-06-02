@@ -58,7 +58,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MasaCtrl | ⚠️ | ❌ | Training-Free | Poor motion controllability |
 | MotionDirector | ✅ | ❌ | One-Shot | Appearance inconsistency |
 | MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
-| **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | - |
+| **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | Color shift of protagonist |
 
 <p align="left">
   <img src="Assets/quantitative.png" width="50%"> <img src="Assets/qualitative.png" width="41%">
