@@ -120,3 +120,6 @@ This project followed the software environment of MotionEditor. <br>
 }
 ```
 
+## Contact
+If you have any questions about this study, please contact via the mail (hb0522@snu.ac.kr)
+
