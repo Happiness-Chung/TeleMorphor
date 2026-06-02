@@ -89,7 +89,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionEditor | 0.348 | 0.148 | 0.666 | 0.252 | 0.094 | 29.35 |
 | **MysticMorphor (Proposed)** | **0.309** | **0.099** | **0.655** | **≤0.001** | **0.074** | **30.01** |
 
-### 🔍 Qualitative Comparison (User Study)
+### 🔍 Qualitative Comparison (Human Evaluation)
 
 | Method | M-A ↑ | A-A ↑ | T-A ↑ |
 |:---|---:|---:|---:|
