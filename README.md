@@ -1,5 +1,5 @@
 # MysticMorphor
-## 🕹️ Simultaneous Motion-Location Editing for In-the-Wild Videos
+## 🕹️ Simultaneous Motion-Location Editing With In-the-Wild Videos
 
 <p align="left"> <i> Prompt: "The boy flies in the greenary forest" </i> </p>
 <table align="left">
