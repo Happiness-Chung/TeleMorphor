@@ -71,9 +71,9 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | Follow-Your-Pose | ✅ | ❌ | Training Required | Appearance drift |
 | ControlVideo | ⚠️ | ❌ | Training-Free | Weak motion alignment |
 | MasaCtrl | ⚠️ | ❌ | Training-Free | Poor motion controllability |
-| MotionDirector | ✅ | ❌ | One-Shot | Appearance inconsistency |
-| MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
-| **MysticMorphor (Proposed)** | ✅ | ✅ | One-Shot | Color shift of protagonist |
+| MotionDirector | ✅ | ❌ | 1 Sample | Appearance inconsistency |
+| MotionEditor | ✅ | ❌ | 1 Sample | Motion conflict & flickering |
+| **MysticMorphor (Proposed)** | ✅ | ✅ | 1 Sample | Color shift of protagonist |
 
 ### 🔍 Quantitative Comparison
 
