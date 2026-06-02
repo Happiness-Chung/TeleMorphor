@@ -74,7 +74,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MasaCtrl | ⚠️ | ❌ | Training-Free | Poor motion controllability |
 | MotionDirector | ✅ | ❌ | One-Shot | Appearance inconsistency |
 | MotionEditor | ✅ | ❌ | One-Shot | Motion conflict & flickering |
-| **MysticMorphor** | ✅ | ✅ | One-Shot + Training-Free Guidance | Color shift of protagonist |
+| **MysticMorphor (Proposed)** | ✅ | ✅ | One-Shot + Training-Free Guidance | Color shift of protagonist |
 
 ### 🔍 Quantitative Comparison
 
@@ -87,7 +87,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MasaCtrl | 0.513 | 0.096 | 0.566 | 0.428 | 0.123 | 27.94 |
 | MotionDirector | 0.604 | 0.075 | 0.695 | 0.581 | 0.285 | 29.40 |
 | MotionEditor | 0.348 | 0.148 | 0.666 | 0.252 | 0.094 | 29.35 |
-| **MysticMorphor (Ours)** | **0.309** | **0.099** | **0.655** | **≤0.001** | **0.074** | **30.01** |
+| **MysticMorphor (Proposed)** | **0.309** | **0.099** | **0.655** | **≤0.001** | **0.074** | **30.01** |
 
 ### 🔍 Qualitative Comparison (User Study)
 
