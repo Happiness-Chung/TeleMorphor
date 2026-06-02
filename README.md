@@ -64,7 +64,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ## Result Analysis
 
-### 🔍 Functional Comparison
+### 🔍 What Progress Have We Made?
 
 
 | Method | Motion Editing | Location Editing | Training Requirement | Limitation |
