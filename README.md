@@ -36,7 +36,7 @@
 
 ---
 
-## Bottom-Up Problem Analysis: What Makes the Editing Difficult?
+## Bottom-Up Motivation: What Makes the Editing Difficult?
 
 👓 **Large motion gaps:** differences between source and target motions <br>
 👓 **Location shifts:** change of the protagonist’s spatial position <br>
