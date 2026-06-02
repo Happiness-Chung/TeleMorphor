@@ -22,6 +22,20 @@
 
 ---
 
+## Quick Start
+
+1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
+2. Prepare inputs in the `sample_input` folder.
+3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
+4. Inpaint the background using any off-the-shelf inpainting model.
+5. Warp the protagonist pose using the scripts in the `data_preparation` folder.
+6. Train with `MysticMorphor(Extended_MotionEditor)/train/train_bg.py`.
+7. Train with `MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
+8. Get the edited protagonist result with `MysticMorphor(Extended_MotionEditor)/inference.py`.
+9. Merge the edited protagonist onto the previously inpainted background.
+
+---
+
 ## Bottom-Up Problem Analysis: What Makes the Editing Difficult?
 
 👓 **Large motion gaps:** differences between source and target motions <br>
@@ -35,7 +49,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="left">
-  <img src="Assets/schematic.png" width="70%">
+  <img src="Assets/schematic.png" width="85%">
 </p>
 
 **Source Video:** <br>
@@ -106,17 +120,4 @@ This project followed the software environment of MotionEditor. <br>
   year={2024}
 }
 ```
----
-
-## Quick Start
-
-1. Follow [MotionEditor](https://github.com/Francis-Rings/MotionEditor) installation.
-2. Prepare inputs in the `sample_input` folder.
-3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
-4. Inpaint the background using any off-the-shelf inpainting model.
-5. Warp the protagonist pose using the scripts in the `data_preparation` folder.
-6. Run `MysticMorphor(Extended_MotionEditor)/train/train_bg.py`.
-7. Run `MysticMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
-8. Run `MysticMorphor(Extended_MotionEditor)/inference.py`.
-9. Composite the edited protagonist onto the previously inpainted background.
 
