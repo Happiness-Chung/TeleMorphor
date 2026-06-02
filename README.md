@@ -5,12 +5,12 @@
 <tr>
 <td align="left">
 <b>Source</b><br>
-<img src="result.gif" width="320"/>
+<img src="Assets/result.gif" width="320"/>
 </td>
 
 <td align="left">
 <b>Edited</b><br>
-<img src="source.gif" width="320"/>
+<img src="Assets/source.gif" width="320"/>
 </td>
 </tr>
 </table>
@@ -34,7 +34,7 @@
 
 ## Our Solution: MysticMorphor
 <p align="left">
-  <img src="schematic.png" width="70%">
+  <img src="Assets/schematic.png" width="70%">
 </p>
 
 **Source Video:** <br>
@@ -50,7 +50,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 ## Performance
 
 <p align="left">
-  <img src="quantitative.png" width="50%"> <img src="qualitative.png" width="41%">
+  <img src="Assets/quantitative.png" width="50%"> <img src="Assets/qualitative.png" width="41%">
 </p>
 LPIPS-s, LPIPS-N, LPIPS-T, and CLIP, and newly defined LPIPS-B, LPIPS-P are used for quantitative evaluation (left table). This work also conducted a user study (right table). The questions of the study were as follows: (I) Which video exhibits better alignment with the target motion? (M-A) (II) Which video better preserves the appearance of the source video? (AA) (III) Which video better aligns with the given text prompt? (T-A). A higher percentage represents the superiority of the results from our proposed method.
 
