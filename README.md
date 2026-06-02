@@ -6,12 +6,12 @@
 <tr>
 <td align="left">
 <img src="Assets/result.gif" width="320"/><br>
-<b>Source</b>
+<p align="center"><b>Source</b></p>
 </td>
 
 <td align="left">
 <img src="Assets/source.gif" width="320"/><br>
-<b>Edited</b>
+<p align="center"><b>Edited</b></p>
 </td>
 </tr>
 </table>
