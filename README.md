@@ -98,7 +98,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 LPIPS-s, LPIPS-N, LPIPS-T, and CLIP, and newly defined LPIPS-B, LPIPS-P are used for quantitative evaluation (left table). This work also conducted a user study (right table). The questions of the study were as follows: (1) Which video exhibits better alignment with the target motion? (M-A) (2) Which video better preserves the appearance of the source video? (AA) (3) Which video better aligns with the given text prompt? (T-A). A higher percentage represents the superiority of the results from our proposed method.
 
-**<i>Entire results archive:<i>** [Google Drive](https://drive.google.com/drive/folders/1vraKY_h7Zr3oox_XR7DCvOjB8kSs_6CD?usp=drive_link)
+**<i>Results Archive:<i>** [Google Drive](https://drive.google.com/drive/folders/1vraKY_h7Zr3oox_XR7DCvOjB8kSs_6CD?usp=drive_link)
 
 ---
 
