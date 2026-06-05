@@ -72,6 +72,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionDirector | ✅ | ❌ | 1 Sample | Appearance inconsistency |
 | MotionEditor | ✅ | ❌ | 1 Sample | Motion conflict & flickering |
 | **MysticMorphor (Proposed)** | ✅ | ✅ | 1 Sample | Color shift of protagonist |
+✅: directly built for the function / ⚠️: does not explicitly intend to serve the function but can be used for the function / ❌: cannot be used for the function
 
 ### 🔍 Quantitative Comparison
 
