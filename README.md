@@ -31,7 +31,7 @@
 
 ---
 
-## Our Solution: MysticMorphor
+## Our Solution: TeleMorphor
 <p align="left">
   <img src="Assets/schematic.png" width="100%">
 </p>
