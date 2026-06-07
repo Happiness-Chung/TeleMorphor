@@ -54,7 +54,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 2. Prepare inputs in the `sample_input` folder.
 3. Segment the protagonist from the background using a pre-trained segmentation model (e.g., SAM).
 4. Inpaint the background using any off-the-shelf inpainting model.
-5. Execute "Training-Free Pose Warping" for the protagonist's pose and location using the scripts in the `data_preparation` folder.
+5. Execute "Training-Free Pose Warping" for the protagonist's pose and location using the scripts in the `data_preparation` folder (can be executed in our Hugging Face Demo). 
 6. Train with `TeleMorphor(Extended_MotionEditor)/train/train_bg.py`.
 7. Train with `TeleMorphor(Extended_MotionEditor)/train/train_adaptor.py`.
 8. Get the edited protagonist result with `TeleMorphor(Extended_MotionEditor)/inference.py`.
