@@ -67,6 +67,9 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 
 ## Result Analysis
 
+### 🎁 Evaluation Package
+To facilitate further research, we have curated an evaluation package that includes our manually collected in-the-wild and synthetic videos and existing benchmark videos collected from MotionEditor and the TaiChi dataset. In addition, we provide the baseline results obtained from baseline models (Follow-Your-Pose, ControlVideo, MasaCtrl, MotionDirector, and MotionEditor). You can integrate your own results on top of the package and then compare the performances with the baseline results. The evaluation code is provided in the `TeleMorphor(Extended_MotionEditor)/.py`.
+
 ### 🔍 What Progress Have We Made?
 
 | Method | Motion Editing | Location Editing | Training Requirement | Limitation |
@@ -104,8 +107,6 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 | MotionEditor | 75.3% | 81.2% | 79.9% |
 
 LPIPS-S, LPIPS-N, LPIPS-T, and CLIP, and newly defined LPIPS-B, LPIPS-P are used for quantitative evaluation (left table). This work also conducted a user study (right table). The questions of the study were as follows: (1) Which video exhibits better alignment with the target motion? (M-A) (2) Which video better preserves the appearance of the source video? (AA) (3) Which video better aligns with the given text prompt? (T-A). A higher percentage represents the superiority of the results from our proposed method.
-
-**<i>Results Archive:<i>** [Google Drive](https://drive.google.com/drive/folders/1rt38TtxN_BhU_oEaX3AOGvqoRQgo7jfc?usp=drive_link)
 
 ---
 
