@@ -68,7 +68,7 @@ YouTube & AI video generator ([Hailuo AI](https://artlist.io/ai/models/hailuo-ai
 ## Result Analysis
 
 ### 🎁 Evaluation Package
-To facilitate further research, we have curated an evaluation package that includes our manually collected in-the-wild and synthetic videos and existing benchmark videos collected from MotionEditor and the TaiChi dataset. In addition, we provide the baseline results obtained from baseline models (Follow-Your-Pose, ControlVideo, MasaCtrl, MotionDirector, and MotionEditor). You can integrate your own results on top of the package and then compare the performances with the baseline results. The evaluation code is provided in the `TeleMorphor(Extended_MotionEditor)/.py`.
+To facilitate higher-quality motion-location editing, we have curated an evaluation package that includes our manually collected in-the-wild and synthetic videos and existing benchmark videos collected from MotionEditor and the TaiChi dataset. In addition, we provide the baseline results obtained from baseline models (Follow-Your-Pose, ControlVideo, MasaCtrl, MotionDirector, and MotionEditor). You can integrate your own results on top of the package and then compare the performances with the baseline results. The evaluation code is provided in the `TeleMorphor(Extended_MotionEditor)/evals/video_eval_avg.py`. And you can also access the human evaluation framework.
 
 ### 🔍 What Progress Have We Made?
 
